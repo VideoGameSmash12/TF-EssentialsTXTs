@@ -1,0 +1,7 @@
+&eThis server supports viewing the rules in different languages.
+&ePlease note that this is in very early testing, so language translations may not be 100% accurate.
+&r
+/rules english &e- &6English
+
+#English
+<insert english conduct policy minimized>
